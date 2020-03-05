@@ -1,0 +1,11 @@
+/Users/jacobreilly-cooper/Desktop/CSharp/csharp-cashMachine/bin/Debug/netcoreapp3.1/csharp-cashMachine
+/Users/jacobreilly-cooper/Desktop/CSharp/csharp-cashMachine/bin/Debug/netcoreapp3.1/csharp-cashMachine.deps.json
+/Users/jacobreilly-cooper/Desktop/CSharp/csharp-cashMachine/bin/Debug/netcoreapp3.1/csharp-cashMachine.runtimeconfig.json
+/Users/jacobreilly-cooper/Desktop/CSharp/csharp-cashMachine/bin/Debug/netcoreapp3.1/csharp-cashMachine.runtimeconfig.dev.json
+/Users/jacobreilly-cooper/Desktop/CSharp/csharp-cashMachine/bin/Debug/netcoreapp3.1/csharp-cashMachine.dll
+/Users/jacobreilly-cooper/Desktop/CSharp/csharp-cashMachine/bin/Debug/netcoreapp3.1/csharp-cashMachine.pdb
+/Users/jacobreilly-cooper/Desktop/CSharp/csharp-cashMachine/obj/Debug/netcoreapp3.1/csharp-cashMachine.csprojAssemblyReference.cache
+/Users/jacobreilly-cooper/Desktop/CSharp/csharp-cashMachine/obj/Debug/netcoreapp3.1/csharp-cashMachine.AssemblyInfoInputs.cache
+/Users/jacobreilly-cooper/Desktop/CSharp/csharp-cashMachine/obj/Debug/netcoreapp3.1/csharp-cashMachine.AssemblyInfo.cs
+/Users/jacobreilly-cooper/Desktop/CSharp/csharp-cashMachine/obj/Debug/netcoreapp3.1/csharp-cashMachine.dll
+/Users/jacobreilly-cooper/Desktop/CSharp/csharp-cashMachine/obj/Debug/netcoreapp3.1/csharp-cashMachine.pdb
